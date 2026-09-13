@@ -1,9 +1,10 @@
 name: "douyin-competitor-research-free"
 display_name: "免费抖音竞品研究助手"
 slug: "douyin-competitor-research-free"
-version: "1.0.0"
+version: "1.0.1"
 category: "content-research"
 author: "xxjrq"
+repository: "https://github.com/xxjrq/douyin-competitor-research-free"
 description: "按关键词或指定账号读取抖音公开作品样本，输出竞品矩阵、钩子结构、可见证据、差异机会和选题建议；不复制原文，不推断后台数据。"
 triggers:
   - "抖音竞品研究"
